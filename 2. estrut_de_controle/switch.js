@@ -1,4 +1,4 @@
-const imprimirResultado = function (nota) {
+ const imprimirResultado = function (nota) {
     switch (Math.floor(nota)) { //Math.floor retorna o menor inteiro
         case 10:
         case 9:
